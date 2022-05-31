@@ -11,8 +11,6 @@ namespace Main {
     {
         private float particleSize;
         private Vector2 boxSize;
-        private Vector2 gridSize;
-        private Vector2 startingPoint;
         private GameObject fluidPrefab;
         private GameObject boxPrefab;
 
